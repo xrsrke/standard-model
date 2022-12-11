@@ -1,0 +1,37 @@
+[
+  {
+    "objectID": "force.html",
+    "href": "force.html",
+    "title": "Force",
+    "section": "",
+    "text": "source\n\nForce\n\n Force ()\n\nInitialize self. See help(type(self)) for accurate signature."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "standard-model",
+    "section": "",
+    "text": "This file will become your README and also the index of your documentation."
+  },
+  {
+    "objectID": "index.html#install",
+    "href": "index.html#install",
+    "title": "standard-model",
+    "section": "Install",
+    "text": "Install\npip install standard_model"
+  },
+  {
+    "objectID": "index.html#how-to-use",
+    "href": "index.html#how-to-use",
+    "title": "standard-model",
+    "section": "How to use",
+    "text": "How to use\nFill me in please! Don’t forget code examples:\n\n1+1\n\n2"
+  },
+  {
+    "objectID": "elementary_particle.html",
+    "href": "elementary_particle.html",
+    "title": "Elementary Parcile",
+    "section": "",
+    "text": "But to understand the standar model, it’s more convenience to use the language of particle.\nFermions are matter particles.\nBosons are force particles.\n\nDistinction between fermions and bosons\nLies in the quantum world. Particles that obey Pauli Exclusion Principle, they’re Fermions. Otherwise, they’re bosons.\n\n\nEverything can be reduced to just three matter particle (Fermions)\n\nElectron\nUp quark\nDown quark\nElectron neutrino\n\nProton have: two up quarks and a down\nNeutron have: two down quarks and an up\n\nsource\n\n\nElementaryParticle\n\n ElementaryParticle ()\n\nInitialize self. See help(type(self)) for accurate signature."
+  }
+]
